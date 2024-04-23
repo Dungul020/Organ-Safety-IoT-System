@@ -1,6 +1,6 @@
 // Initialize Firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyC89sK_11VDxNrpzzzq2DPDli8XoyvwUjA",
+    apiKey: "AIzaSyC89sK............................",
     authDomain: "raspberrypi-test-1e065.firebaseapp.com",
     databaseURL: "https://raspberrypi-test-1e065-default-rtdb.firebaseio.com",
     projectId: "raspberrypi-test-1e065",
